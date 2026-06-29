@@ -1,2 +1,7 @@
 *.csv
 *.pdf
+.env
+.ipynb_checkpints/
+*.pyc
+.DS_Store
+.vscode/
